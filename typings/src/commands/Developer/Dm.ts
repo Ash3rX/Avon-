@@ -10,7 +10,7 @@ export default class Dm extends AvonCommand {
       guild: false,
       user: false,
     };
-    this.dev = false;
+    this.dev = true;
     this.vote = false;
     this.exec = async (message: any, args: any, prefix: any) => {
       let user: undefined | any;
