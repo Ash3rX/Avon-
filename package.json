@@ -37,7 +37,7 @@
   "name": "avon",
   "version": "5.0.0",
   "description": "Best Music bot of discord in typescript",
-  "main": "index.js",
+  "main": "build/index.js",
   "keywords": [
     "discord",
     "music",

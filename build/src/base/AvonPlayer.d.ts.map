@@ -1,0 +1,1 @@
+{"version":3,"file":"AvonPlayer.d.ts","sourceRoot":"","sources":["../../../typings/src/base/AvonPlayer.ts"],"names":[],"mappings":";AAEA,MAAM,CAAC,OAAO,OAAO,UAAU;IAC7B,MAAM,EAAE,GAAG,CAAC;gBACA,MAAM,EAAE,GAAG;IAGjB,KAAK,CAAC,KAAK,EAAE,GAAG,EAAE,MAAM,EAAE,GAAG;IA8CnC,OAAO,CAAC,iBAAiB;CAU1B"}

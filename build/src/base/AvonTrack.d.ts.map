@@ -1,0 +1,1 @@
+{"version":3,"file":"AvonTrack.d.ts","sourceRoot":"","sources":["../../../typings/src/base/AvonTrack.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,SAAU,SAAQ,MAAM;IAC3C,OAAO,EAAE,MAAM,CAAC;IAChB,KAAK,EAAE,MAAM,CAAC;IACd,IAAI,EAAE,MAAM,CAAC;gBACD,KAAK,EAAE,GAAG;CAmBvB"}

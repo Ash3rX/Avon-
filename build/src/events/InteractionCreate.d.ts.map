@@ -1,0 +1,1 @@
+{"version":3,"file":"InteractionCreate.d.ts","sourceRoot":"","sources":["../../../typings/src/events/InteractionCreate.ts"],"names":[],"mappings":"AACA,OAAO,SAAS,MAAM,sBAAsB,CAAC;AAM7C,MAAM,CAAC,OAAO,OAAO,eAAgB,SAAQ,SAAS;IACpD,CAAC,CAAC,EAAE,MAAM,GAAG,GAAG,CAAC;gBACL,MAAM,EAAE,GAAG;CAgqGxB"}

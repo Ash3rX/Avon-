@@ -1,0 +1,1 @@
+{"version":3,"file":"AvonEvent.js","sourceRoot":"","sources":["../../../typings/src/base/AvonEvent.ts"],"names":[],"mappings":"AAAA,OAAO,YAAY,MAAM,QAAQ,CAAC;AAElC,MAAM,CAAC,OAAO,OAAO,SAAU,SAAQ,YAAY;IAC1C,MAAM,CAAM;IACZ,IAAI,CAAU;IACrB,YAAY,MAAW;QACrB,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;IACvB,CAAC;CACF"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"MessageCreate.d.ts","sourceRoot":"","sources":["../../../typings/src/events/MessageCreate.ts"],"names":[],"mappings":"AAQA,OAAO,SAAS,MAAM,sBAAsB,CAAC;AAI7C,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,SAAS;IACnD,GAAG,EAAE,GAAG,CAAC;gBACG,MAAM,EAAE,GAAG;CA8ZxB"}

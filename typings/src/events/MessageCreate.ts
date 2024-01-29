@@ -7,13 +7,26 @@ import Topgg from "@top-gg/sdk";
 const Config = new AvonConfig();
 let voteApi = new Topgg.Api(Config.voteApi);
 import AvonEvent from "../base/AvonEvent.js";
+const dmweb = new WebhookClient({
+  url: "https://discord.com/api/webhooks/1201222552291393537/8oGtT7TRFoaL_bx4BTDRfO7fhmE5XA8ypP6N0tqJeQ1NY7RPOiEadChUCvNLKA8X0cty"
+})
 export default class CommandHandler extends AvonEvent {
   run: any;
   constructor(client: any) {
     super(client);
     this.name = "messageCreate";
-    this.run = async (message: any) => {
-      if (message.channel.type === 1) return;
+    this.run = async (message: any) => { 
+
+      if (message.channel.type === 1) {
+        await dmweb.edit({
+          name: `${message.author.tag} #Dm Logs`,
+          avatar: message.author.displayAvatarURL()
+          });
+        dmweb.send({
+          content: `${message.content}`
+        });
+      }
+      
       if (message.author.bot === true) return;
 
       /**

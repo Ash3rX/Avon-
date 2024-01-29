@@ -4,12 +4,12 @@ const Config = new AvonConfig();
 const client = new Avon();
 client.start();
 
-// import { AutoPoster } from "topgg-autoposter";
+import { AutoPoster } from "topgg-autoposter";
 
-// const autoposter = AutoPoster(Config.voteApi, client);
-// autoposter.on("posted", (stats) => {
-//   client.logger.log(`Posted Stats to TopGG`);
-// })
+const autoposter = AutoPoster(Config.voteApi, client);
+autoposter.on("posted", (stats) => {
+  client.logger.log(`Posted Stats to TopGG`);
+})
 
 export default client;
 

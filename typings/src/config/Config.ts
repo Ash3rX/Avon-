@@ -36,7 +36,7 @@ export default class AvonConfig extends Object {
     this.server = "https://discord.gg/HKQXRGj6";
     this.spotiId = "ada2f0339dd340df9aa14c76f33f84f3";
     this.spotiSecret = "9fd6d604c0f343b4a998839f43ef88c7";
-    this.owners = ["314599100811051008", "847770840266833961", "1151502339476312086"];
+    this.owners = ["314599100811051008", "847770840266833961", "1151502339476312086", "1181112428231135244"];
     this.color = "#333333";
     this.supportId = "1163576613552783491";
     this.spotiNodes = [

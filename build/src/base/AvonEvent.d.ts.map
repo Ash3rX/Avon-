@@ -1,0 +1,1 @@
+{"version":3,"file":"AvonEvent.d.ts","sourceRoot":"","sources":["../../../typings/src/base/AvonEvent.ts"],"names":[],"mappings":"AAAA,OAAO,YAAY,MAAM,QAAQ,CAAC;AAElC,MAAM,CAAC,OAAO,OAAO,SAAU,SAAQ,YAAY;IAC1C,MAAM,EAAE,GAAG,CAAC;IACZ,IAAI,CAAC,EAAE,MAAM,CAAC;gBACT,MAAM,EAAE,GAAG;CAIxB"}
